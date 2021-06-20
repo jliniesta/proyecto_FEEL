@@ -1,0 +1,11 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\FEEL_v11\PcbDoc_JavierLopezIniesta_RodrigoMoratilla.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcbdoc_javierlopeziniesta_rodrigomoratilla-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcbdoc_javierlopeziniesta_rodrigomoratilla-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Int1 (GND)_Blind_Vias|DrillFile=|DrillLayers=gtl,gp1
+LayersSetName=Top_Int2 (PWR)_Blind_Vias|DrillFile=|DrillLayers=gtl,gp1,gp2
+LayersSetName=Int1 (GND)_Bot_Blind_Vias|DrillFile=|DrillLayers=gp1,gp2,gbl
+LayersSetName=Int2 (PWR)_Bot_Blind_Vias|DrillFile=|DrillLayers=gp2,gbl
+LayersSetName=Top_Int1 (GND)_Blind_Vias|DrillFile=|DrillLayers=gtl,gp1
+LayersSetName=Top_Int2 (PWR)_Blind_Vias|DrillFile=|DrillLayers=gtl,gp1,gp2
+LayersSetName=Int1 (GND)_Bot_Blind_Vias|DrillFile=|DrillLayers=gp1,gp2,gbl
+LayersSetName=Int2 (PWR)_Bot_Blind_Vias|DrillFile=|DrillLayers=gp2,gbl

@@ -1,0 +1,89 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PcbDoc_JavierLopezIniesta_RodrigoMoratilla.PcbDoc   24/11/2020  19:28:22
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TXT
+ASCII Non-Plated RoundHoles File : PcbDoc_JavierLopezIniesta_RodrigoMoratilla-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.12mm (5mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T2      0.13mm (5mil)                                             Round             10        PTH        0.00mm (0.00inch)
+T3      0.2mm (8mil)                                              Round             2         PTH        0.00mm (0.00inch)
+T4      0.4mm (16mil)                                             Round             8         PTH        0.00mm (0.00inch)
+T5      0.9mm (35mil)                                             Round             2         NPTH       0.00mm (0.00inch)
+T6      1mm (39mil)                                               Round             4         NPTH       0.00mm (0.00inch)
+T7      1.02mm (40mil)                                            Round             2         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              29
+Layer Pair : Top Layer to Int1 (GND)
+ASCII Plated RoundHoles File : PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      0.4mm (16mil)                                             Round             39        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              39
+Layer Pair : Top Layer to Int2 (PWR)
+ASCII Plated RoundHoles File : PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      0.4mm (16mil)                                             Round             5         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              5
+Layer Pair : Int1 (GND) to Bottom Layer
+ASCII Plated RoundHoles File : PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX5
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      0.4mm (16mil)                                             Round             14        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              14
+Layer Pair : Int2 (PWR) to Bottom Layer
+ASCII Plated RoundHoles File : PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX7
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      0.4mm (16mil)                                             Round             5         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              5
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              92
+MicroVia : Top Layer to Int1 (GND)
+ASCII Plated RoundHoles File : PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX10
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      0.4mm (16mil)                                             Round             7         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              7
+MicroVia : Top Layer to Int2 (PWR)
+ASCII Plated RoundHoles File : PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX12
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      0.4mm (16mil)                                             Round             77        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              77
+MicroVia : Int1 (GND) to Bottom Layer
+ASCII Plated RoundHoles File : PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX14
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      0.4mm (16mil)                                             Round             6         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              6
+MicroVia : Int2 (PWR) to Bottom Layer
+ASCII Plated RoundHoles File : PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX16
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      0.4mm (16mil)                                             Round             77        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              77
+----------------------------------------------------------------------------------------------------------------------------------
+MicroVia Totals                                                                     167
+
+Total Processing Time (hh:mm:ss) : 00:00:00

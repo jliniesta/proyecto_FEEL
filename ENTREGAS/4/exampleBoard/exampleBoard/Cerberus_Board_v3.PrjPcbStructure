@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Power and connectors.SchDoc
+Record=SheetSymbol|SourceDocument=Power and connectors.SchDoc|Designator=U_cc2500|SchDesignator=U_cc2500|FileName=cc2500.SchDoc|SymbolType=Normal|RawFileName=cc2500.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Power and connectors.SchDoc|Designator=U_spirit1_433|SchDesignator=U_spirit1_433|FileName=spirit1_433.SchDoc|SymbolType=Normal|RawFileName=spirit1_433.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Power and connectors.SchDoc|Designator=U_spirit1_868|SchDesignator=U_spirit1_868|FileName=spirit1_868.SchDoc|SymbolType=Normal|RawFileName=spirit1_868.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

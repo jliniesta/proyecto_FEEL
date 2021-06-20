@@ -1,0 +1,21 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FEEL2020.PrjPcb]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TXT]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla-NonPlated.TXT]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX1]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX3]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX5]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX7]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX10]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX12]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX14]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla-Plated.TX16]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla.LDP]
+   Generated File[PcbDoc_JavierLopezIniesta_RodrigoMoratilla.DRR]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 13:53:41 On 03/12/2020
